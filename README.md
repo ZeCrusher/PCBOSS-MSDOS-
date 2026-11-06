@@ -1,5 +1,6 @@
-# PCBOSS V1 - OLD PC - MSDOS 
+# PCBOSS V1 - OLD PC - MS-DOS/PC-DOS (R) compatible operating system.
 (MSDOS 3.1 et plus - Pas testé sur des versions antérieures mais cela devrait fonctionner).
+
 
 
 Lecture des dossiers au lancement du programme. Cela peut être relativement long sur une disquette : 
