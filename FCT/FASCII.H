@@ -1,13 +1,13 @@
 /*   FASCII ver 1.00
  Utilitaire en Mode texte 80x25
- R‚alis‚ le: 16/03/1996
- DŠrniŠre modif: 16/03/96
- Programmation & conception: Tsakiropoulos Serge
+ Râ€šalisâ€š le: 16/03/1996
+ DÅ rniÅ re modif: 16/03/96
+ Programmation & conception: ZeCrusher
 
- Ce PROGRAMME peut ˆtre utilis‚ dans un autre programme
+ Ce PROGRAMME peut Ë†tre utilisâ€š dans un autre programme
  comme fonction
 //*/
-// Modifier … cause du projet .....
+// Modifier â€¦ cause du projet .....
 //	enum type_cadre { SIMPLE = 0, DOUBLE = 1, BARRE = 2, ETOILE = 3 };
 
 typedef unsigned char byte;
