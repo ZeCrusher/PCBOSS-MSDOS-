@@ -2,14 +2,14 @@
 
 /*   FCADRE ver 6.00
  Utilitaire en Mode texte 80x25
- R‚alis‚ le: 12/12/1994
- DŠrniŠre modif: 17/01/96
- Programmation & conception: Tsakiropoulos Serge & Matheis laurent
+ Râ€šalisâ€š le: 12/12/1994
+ DÅ rniÅ re modif: 17/01/96
+ Programmation & conception: ZeCrusher & MatheisL
 
- Ce PROGRAMME peut ˆtre utilis‚ dans un autre programme
+ Ce PROGRAMME peut Ë†tre utilisâ€š dans un autre programme
  comme fonction
 //*/
-// Modifier … cause du projet .....
+// Modifier â€¦ cause du projet .....
 //	enum type_cadre { SIMPLE = 0, DOUBLE = 1, BARRE = 2, ETOILE = 3 };
 #define SIMPLE		0
 #define DOUBLE		1
