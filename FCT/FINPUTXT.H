@@ -1,10 +1,10 @@
 #define __FINPUTXT
 /*   FINPUTXT version 1.00
  Utilitaire en Mode texte 80x25
- R‚alis‚ le: __/__/1995
- DŠrniŠre modif: 04/03/96
- Programmation & conception: Tsakiropoulos Serge
- Ce PROGRAMME peut ˆtre utilis‚ dans un autre programme
+ Râ€šalisâ€š le: __/__/1995
+ DÅ rniÅ re modif: 04/03/96
+ Programmation & conception: ZeCrusher
+ Ce PROGRAMME peut Ë†tre utilisâ€š dans un autre programme
  comme fonction
 */
 #if !defined( __CONIO_H )
@@ -23,7 +23,7 @@
 #include <string.h>
 #define __STRING_H
 #endif
-//#include "c:\tskÿ\fctÿ\fcadre.cpp"
+//#include "c:\tskÃ¿\fctÃ¿\fcadre.cpp"
 
 #define SPACE(x)			for(tmp=0;tmp<x;tmp++) cprintf(" ")
 #define	INSERTION			'R'
